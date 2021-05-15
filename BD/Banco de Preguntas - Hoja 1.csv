@@ -1,0 +1,23 @@
+Numero,Pregunta,A,B,C,D,Correcta,Opciones ayuda,Autor
+1,¿Cuál es el símbolo químico del Hierro?,Hi,Fr,Fe,Ir,C,"A,C",Juan Sebastián Ramírez
+2,¿Cuál es la capital de Madagascar?,Berna,Sarajevo,Antananarivo,Lhasa,C,"C,D",Leoncio Gómez
+3,¿Cuál es el rio más largo y caudaloso del mundo?,Nilo,Amazonas,Misisipi,Amarillo,B,"A,B",Daniela Yepes
+4,¿Cuales son las dos primeras cifras decimales del numero Pi,69,39,96,14,D,"A,D",Deivid Zhang
+5,¿Cuál es el hueso mas pequeño que tiene el ser humano?,Estribo,Radio ,Fémur,Cráneo,A,"A,B",Diego Alfonso
+6,"Que imprime la siguiente expresion en python ""print(f""{5%2}"")""",0,5%2,2.5,1,D,"B,D",Juan Sebastián Ramírez
+7,La capital del departamento de La Guajira es: ,Sincelejo,Riohacha,Mitú, Florencia,B,"B,C",Angy Carolina Perdomo 
+8,Es la unidad morfológica y funcional de todo ser vivo:,Átomos ,ADN,Órgano,Célula,D,"D,B",Angy Carolina Perdomo 
+9,¿Quién fue el primer hombre en pisar la luna?,Neil Armstrong,Lance Armstrong,Peter Armstrong,J. F. Armstrong,A,"A,B",Deivis Galván Cabrera
+10,¿Cuántos animales de cada especie subió Moisés al arca?,2 de cada especie,1 de cada especie,Todos los que encontró,Ninguno,D,"A,D",Deivis Galván Cabrera
+11,¿Dónde se encuentra la Guayana Francesa?,En Europa,En Asia,En América,En Africa,C,"A,C",Deivis Galván Cabrera
+12,¿Quién fue Ted Bundy?,Un Profesor,Un Asesino Serial,Familiar de Zac Effron,Personaje Ficticio,B,"B,C",Juan Camilo Ospina
+13,¿Cuál es el elemento más abundante en la atmósfera? ,Nitrógeno,Argón,Oxígeno,Helio,A,"A,C",Juan Camilo Ospina
+14,"¿Cuál es el pokémon n°001 de la pokédex en pokemon rojo?",Charmander,Pikachu,Bulbasaur,Squirtle,C,"B,C",Juan Camilo Ospina
+15,¿En qué año tuvo lugar la Batalla de Boyacá?,1810,1819,1815,1829,B,"A,B",Leoncio Gómez
+16,¿En qué año fue publicado el lenguaje de programación Python?,1990,2000,1991,2015,C,"B, C",Leoncio Gómez
+17,¿Quien pinto la última cena?,Salvador Dalí,Miguel Angel,Alberto Durero,Leonardo da Vinci,D,"B,D",Camila Wilches
+18,¿Cuál es el país más grande del mundo?,EEUU,Brasil,Rusia,India,C,"C,D",Camila Wilches
+19,¿En qué lugar del cuerpo se produce la insulina?,Páncreas,Hígado,Estómago,Riñones,A,"A,B",Camila Wilches
+20,¿Cuál es el planeta más grande del Sistema Solar?,Júpiter,Tierra,Urano,Saturno,A,"A,B",María Angélica Paniagua Núñez
+21,¿Dónde se celebraron los primeros juegos olímpicos?,Esparta,Atenas,Olimpia,Mileto,B,"B,C",María Angélica Paniagua Núñez
+22,¿Quién fue el primer presidente de Colombia?,Cristobal Colón,Antonio Nariño ,Fracisco de Paula Santander,Simón Bolívar ,D,"C,D",María Angélica Paniagua Núñez
